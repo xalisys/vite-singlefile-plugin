@@ -1,6 +1,6 @@
 {
 	"name": "vite-singlefile-plugin",
-	"version": "1.0.0",
+	"version": "0.0.9",
 	"description": "Vite plugin for inlining JavaScript and CSS resources",
 	"main": "dist/index.js",
 	"typings": "dist/index.d.ts",
